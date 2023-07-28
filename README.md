@@ -6,6 +6,12 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [WMT shared task on sign language translation](#wmt)
 
 
+* [Neural Sign Language Translation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf). Necati Cihan Camgoz, Simon Hadfield, Oscar Koller, Hermann Ney, Richard Bowden. (CVPR 2018) {[code](https://github.com/neccam/nslt)}
+* [Hierarchical LSTM for Sign Language Translation](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Dan Guo, Wengang Zhou, Houqiang Li, Meng Wang. (AAAI 2018)
+* [Prior Knowledge and Memory Enriched Transformer for Sign Language Translation](https://aclanthology.org/2022.findings-acl.297/). Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (Findings of ACL 2022)
+
+
+
 <h2 id="survey">Survey</h2>
 
 * [A survey on Sign Language machine translation](https://arxiv.org/abs/2301.07069). Adrián Núñez-Marcos, Olatz Perez-de-Viñaspre, Gorka Labaka. (Expert Systems with Applications 2022)
