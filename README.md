@@ -21,7 +21,7 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [Sign Language Translation: A Survey of Approaches and Techniques](https://www.mdpi.com/2079-9292/12/12/2678). Zeyu Liang, Huailing Li and Jianping Chai. (Electronics 2023)
 
 
-<h2 id="gloss">[Sign Language Gloss Translation</h2>
+<h2 id="gloss">Sign Language Gloss Translation</h2>
 
 * [Data Augmentation for Sign Language Gloss Translation](https://aclanthology.org/2021.mtsummit-at4ssl.1.pdf). Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (AT4SSL 2021)
 * [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf). Xuan Zhang and Kevin Duh. (AT4SSL 2021)
