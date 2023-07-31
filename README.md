@@ -73,7 +73,7 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [CSL-Daily Dataset](https://ustc-slr.github.io/datasets/2021_csl_daily/). Visual Sign Language Research Group at the University of Science and Technology of China
 * [BOBSL: BBC-Oxford British Sign Language Dataset](https://www.robots.ox.ac.uk/~vgg/data/bobsl/#data). Visual Geometry Group at the University of Oxford
 * [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl). Google 
-* [How2Sign]() How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language CVPR2021
+* [How2Sign](https://openaccess.thecvf.com/content/CVPR2021/papers/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.pdf) How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language CVPR2021
 * 
 
 
