@@ -22,12 +22,49 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [Sign Language Translation: A Survey of Approaches and Techniques](https://www.mdpi.com/2079-9292/12/12/2678). Zeyu Liang, Huailing Li and Jianping Chai. (Electronics 2023)
 
 
+<h2 id="gloss"> Gloss Free Sign Language Translation </h2>
+* Gloss Attention for Gloss-free Sign Language Translation CVPR2023
+* Gloss-Free End-to-End Sign Language Translation ACL2023
+
+
+<h2 id="gloss"> New-concepts for Sign Language Translatio </h2>
+* MLSLT: Towards Multilingual Sign Language Translation CVPR2022
+* Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation, ACM MM2021
+* Including Signed Languages in Natural Language Processing ACL2021
+* SimulSLT: End-to-End Simultaneous Sign Language Translation ACM MM2021
+* Skeleton-Aware Neural Sign Language Translation ACM MM2021
+
+
+<h2 id="gloss"> Low-resources Sign Language Translation </h2>
+* Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Uniﬁed-Vo Datasets NeurlPS 2022
+* SLTUNET: A simple unified model for sign language translation ICLR 2022
+* A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation  CVPR2022
+* MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation ACM MM2022
+* Improving Sign Language Translation with Monolingual Data by Sign Back-Translation CVPR2021
+* Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation CVPR2020
+* Data Augmentation for Sign Language Gloss Translation (arXiv 2021)
+* Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task (NeurlPS 2021)
+
+
+
+<h2 id="gloss"> Two-stage Sign Language Translation </h2>
+* Two-Stream Network for Sign Language Recognition and Translation NeurlPS 2022
+* Better Sign Language Translation with STMC-Transformer (COLING2022)
+* TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation (NeurlPS 2020)
+
+
+
 <h2 id="gloss">Sign Language Gloss Translation</h2>
 
+* Using Neural Machine Translation Methods for Sign Language Translation ACL2022 
 * [Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation](https://aclanthology.org/2023.eacl-main.34/). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu. (EACL 2023) {[code](https://github.com/Atrewin/PGen)}
 * [Data Augmentation for Sign Language Gloss Translation](https://aclanthology.org/2021.mtsummit-at4ssl.1.pdf). Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (AT4SSL 2021)
 * [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf). Xuan Zhang and Kevin Duh. (AT4SSL 2021)
 * [Frozen Pretrained Transformers for Neural Sign Language Translation](https://aclanthology.org/2021.mtsummit-at4ssl.10.pdf). Mathieu De Coster, Karel D’Oosterlinck, Marija Pizurica, Paloma Rabaey, Severine Verlinden, Mieke Van Herreweghe and Joni Dambre. (AT4SSL 2021) {[code](https://github.com/m-decoster/fpt4slt)}
+
+
+
+
 
 
 <h2 id="data">Dataset</h2>
@@ -36,7 +73,8 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [CSL-Daily Dataset](https://ustc-slr.github.io/datasets/2021_csl_daily/). Visual Sign Language Research Group at the University of Science and Technology of China
 * [BOBSL: BBC-Oxford British Sign Language Dataset](https://www.robots.ox.ac.uk/~vgg/data/bobsl/#data). Visual Geometry Group at the University of Oxford
 * [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl). Google 
-
+* [How2Sign]() How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language CVPR2021
+* 
 
 
 <h2 id="wmt">WMT shared task on sign language translation</h2>
