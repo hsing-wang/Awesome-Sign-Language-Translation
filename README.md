@@ -24,7 +24,7 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 
 
 
-<h2 id="gloss"> New-settings for Sign Language Translatio </h2>
+<h2 id="gloss"> New-settings for Sign Language Translation </h2>
 
 * [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf). (CVPR 2023)
 * [Gloss-Free End-to-End Sign Language Translation](https://arxiv.org/pdf/2305.12876). (ACL 2023)
