@@ -42,7 +42,6 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [Data Augmentation for Sign Language Gloss Translation](https://arxiv.org/abs/2105.07476)  Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (arXiv preprint 2021)
 * [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://www.aclweb.org/anthology/2021.at4ssl-1.8.pdf)  Xuan Zhang, Kevin Duh. (AT4SSL 2021)
 
-
 <h2 id="gloss"> Two-stage Sign Language Translation </h2>
 
 * [Two-Stream Network for Sign Language Recognition and Translation](https://proceedings.neurips.cc/paper_files/paper/2022/file/6cd3ac24cdb789beeaa9f7145670fcae-Paper-Conference.pdf) by Yutong Chen, Ronglai Zuo, Fangyun Wei, Yu Wu, Shujie Liu, Brian Mak. (NeurIPS 2022)
@@ -56,6 +55,7 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [Data Augmentation for Sign Language Gloss Translation](https://aclanthology.org/2021.mtsummit-at4ssl.1.pdf) by Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (AT4SSL 2021)
 * [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf) by Xuan Zhang and Kevin Duh. (AT4SSL 2021)
 * [Frozen Pretrained Transformers for Neural Sign Language Translation](https://aclanthology.org/2021.mtsummit-at4ssl.10.pdf) by Mathieu De Coster, Karel D’Oosterlinck, Marija Pizurica, Paloma Rabaey, Severine Verlinden, Mieke Van Herreweghe and Joni Dambre. (AT4SSL 2021) {[code](https://github.com/m-decoster/fpt4slt)}
+
 
 
 
