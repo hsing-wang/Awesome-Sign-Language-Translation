@@ -8,10 +8,6 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [WMT shared task on sign language translation](#wmt)
 
 
-* [Neural Sign Language Translation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf). Necati Cihan Camgoz, Simon Hadfield, Oscar Koller, Hermann Ney, Richard Bowden. (CVPR 2018) {[code](https://github.com/neccam/nslt)}
-* [Hierarchical LSTM for Sign Language Translation](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Dan Guo, Wengang Zhou, Houqiang Li, Meng Wang. (AAAI 2018)
-* [Better Sign Language Translation with STMC-Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Kayo Yin, Jesse Read. (COLING 2018) {[code](https://github.com/kayoyin/transformer-slt)}
-* [Prior Knowledge and Memory Enriched Transformer for Sign Language Translation](https://aclanthology.org/2022.findings-acl.297/). Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (Findings of ACL 2022)
 
 
 
@@ -40,6 +36,7 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [SLTUNET: A Simple Unified Model for Sign Language Translation](https://arxiv.org/abs/2305.01778)  Biao Zhang, Mathias Müller, Rico Sennrich. (arXiv preprint 2023)
 * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.pdf)  Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin. (CVPR 2022)
 * [Mc-slt: Towards Low-Resource Signer-Adaptive Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456)  Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (ACM MM 2022)
+* [Prior Knowledge and Memory Enriched Transformer for Sign Language Translation](https://aclanthology.org/2022.findings-acl.297/). Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (Findings of ACL 2022)
 * [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)  Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020)
 * [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf)  Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li. (CVPR 2021)
 * [Data Augmentation for Sign Language Gloss Translation](https://arxiv.org/abs/2105.07476)  Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (arXiv preprint 2021)
@@ -51,6 +48,7 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 * [Two-Stream Network for Sign Language Recognition and Translation](https://proceedings.neurips.cc/paper_files/paper/2022/file/6cd3ac24cdb789beeaa9f7145670fcae-Paper-Conference.pdf). (NeurlPS 2022)
 * [Better Sign Language Translation with STMC-Transformer](https://aclanthology.org/2022.loresmt-1.pdf). (COLING 2022)
 * [TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf). (NeurlPS 2020)
+* [Hierarchical LSTM for Sign Language Translation](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Dan Guo, Wengang Zhou, Houqiang Li, Meng Wang. (AAAI 2018)
 
 
 <h2 id="gloss">Sign Language Gloss Translation</h2>
