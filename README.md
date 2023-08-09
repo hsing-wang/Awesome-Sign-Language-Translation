@@ -23,27 +23,27 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 
 
 
-
 <h2 id="gloss"> New-settings for Sign Language Translation </h2>
 
-* [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf) by Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao. (CVPR 2023)
-* [MLSLT: Towards Multilingual Sign Language Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf) by Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (CVPR 2022)
-* [Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456?casa_token=wDqujzOY8qoAAAAA:KFwcBI5nlgpabQPV0fLvQ34PovxsydAyge6xPn1KrTMe5G_lkktvkAL4ZQ9XRa-cFSbRTaFMYcXaiK9C) by Tao Jin, Zhou Zhao. (ACM MM 2021)
-* [Including Signed Languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222) by Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg, Malihe Alikhani. (arXiv preprint 2021)
-* [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475544?casa_token=ZkpZ40zMKaEAAAAA:I5_5IBX0k1ROeVkUdxktCtyRAPnp-8MJ31gJR4cLhXKe2QFomwjsTrTOjB8KMK1LTMU-R27VAlOqiWro) by Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
-* [Skeleton-Aware Neural Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475577?casa_token=AswxspbNYzgAAAAA:iJJ8tDNZuu8r0VCiDfHSV70A5vOgDk-ngKgm2X0chMcGuSBDxRW9TpSrvFjpwVH-dDtbf2VxDcMAUu29) by Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu. (ACM MM 2021)
+* [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf)  Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao. (CVPR 2023)
+* [MLSLT: Towards Multilingual Sign Language Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf)  Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (CVPR 2022)
+* [Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456?casa_token=wDqujzOY8qoAAAAA:KFwcBI5nlgpabQPV0fLvQ34PovxsydAyge6xPn1KrTMe5G_lkktvkAL4ZQ9XRa-cFSbRTaFMYcXaiK9C)  Tao Jin, Zhou Zhao. (ACM MM 2021)
+* [Including Signed Languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222)  Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg, Malihe Alikhani. (arXiv preprint 2021)
+* [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475544?casa_token=ZkpZ40zMKaEAAAAA:I5_5IBX0k1ROeVkUdxktCtyRAPnp-8MJ31gJR4cLhXKe2QFomwjsTrTOjB8KMK1LTMU-R27VAlOqiWro)  Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
+* [Skeleton-Aware Neural Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475577?casa_token=AswxspbNYzgAAAAA:iJJ8tDNZuu8r0VCiDfHSV70A5vOgDk-ngKgm2X0chMcGuSBDxRW9TpSrvFjpwVH-dDtbf2VxDcMAUu29)  Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu. (ACM MM 2021)
 
 
 <h2 id="gloss"> Low-resources Sign Language Translation </h2>
-* [Using Neural Machine Translation Methods for Sign Language Translation](http://aclweb.org/anthology/2022.acl-srw.30) by Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022)
-* [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets](https://proceedings.neurips.cc/paper/2022/hash/8a8c4e0c3f066865675460bb5aa8b418-Abstract.html) by NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022)
-* [SLTUNET: A Simple Unified Model for Sign Language Translation](https://arxiv.org/abs/2305.01778) by Biao Zhang, Mathias Müller, Rico Sennrich. (arXiv preprint 2023)
-* [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.pdf) by Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin. (CVPR 2022)
-* [Mc-slt: Towards Low-Resource Signer-Adaptive Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456) by Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (ACM MM 2022)
-* [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) by Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020)
-* [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf) by Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li. (CVPR 2021)
-* [Data Augmentation for Sign Language Gloss Translation](https://arxiv.org/abs/2105.07476) by Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (arXiv preprint 2021)
-* [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://www.aclweb.org/anthology/2021.at4ssl-1.8.pdf) by Xuan Zhang, Kevin Duh. (AT4SSL 2021)
+
+* [Using Neural Machine Translation Methods for Sign Language Translation](http://aclweb.org/anthology/2022.acl-srw.30)  Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022)
+* [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets](https://proceedings.neurips.cc/paper/2022/hash/8a8c4e0c3f066865675460bb5aa8b418-Abstract.html)  NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022)
+* [SLTUNET: A Simple Unified Model for Sign Language Translation](https://arxiv.org/abs/2305.01778)  Biao Zhang, Mathias Müller, Rico Sennrich. (arXiv preprint 2023)
+* [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.pdf)  Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin. (CVPR 2022)
+* [Mc-slt: Towards Low-Resource Signer-Adaptive Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456)  Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (ACM MM 2022)
+* [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)  Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020)
+* [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf)  Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li. (CVPR 2021)
+* [Data Augmentation for Sign Language Gloss Translation](https://arxiv.org/abs/2105.07476)  Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (arXiv preprint 2021)
+* [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://www.aclweb.org/anthology/2021.at4ssl-1.8.pdf)  Xuan Zhang, Kevin Duh. (AT4SSL 2021)
 
 
 <h2 id="gloss"> Two-stage Sign Language Translation </h2>
