@@ -35,16 +35,16 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 
 
 <h2 id="gloss"> Low-resources Sign Language Translation </h2>
+* [Using Neural Machine Translation Methods for Sign Language Translation](http://aclweb.org/anthology/2022.acl-srw.30) by Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022)
+* [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets](https://proceedings.neurips.cc/paper/2022/hash/8a8c4e0c3f066865675460bb5aa8b418-Abstract.html) by NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022)
+* [SLTUNET: A Simple Unified Model for Sign Language Translation](https://arxiv.org/abs/2305.01778) by Biao Zhang, Mathias Müller, Rico Sennrich. (arXiv preprint 2023)
+* [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.pdf) by Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin. (CVPR 2022)
+* [Mc-slt: Towards Low-Resource Signer-Adaptive Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456) by Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (ACM MM 2022)
+* [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) by Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020)
+* [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf) by Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li. (CVPR 2021)
+* [Data Augmentation for Sign Language Gloss Translation](https://arxiv.org/abs/2105.07476) by Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (arXiv preprint 2021)
+* [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://www.aclweb.org/anthology/2021.at4ssl-1.8.pdf) by Xuan Zhang, Kevin Duh. (AT4SSL 2021)
 
-* [Using Neural Machine Translation Methods for Sign Language Translation](https://aclanthology.org/2022.acl-srw.21.pdf). (ACL 2022)
-* [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Uniﬁed-Vo Datasets](https://proceedings.neurips.cc/paper_files/paper/2022/file/eb011fd258c763c44d8c6a0e9ce04f17-Paper-Datasets_and_Benchmarks.pdf). (NeurIPS 2022)
-* [SLTUNET: A simple unified model for sign language translation](https://arxiv.org/pdf/2305.01778). (ICLR 2022)
-* [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.pdf). (CVPR 2022)
-* [MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3503161.3548069?casa_token=lUlanc00duAAAAAA:tL09BreYtnoaIxq_5f5UjhPjbVQyAW3icUFexCwEY5Z7wIcstoCqbr5ukgVkttieL270TIUtF9WzlhOw). (ACM MM 2022)
-* [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf). (CVPR 2021)
-* [Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf). (CVPR 2020)
-* [Data Augmentation for Sign Language Gloss Translation](https://arxiv.org/pdf/2105.07476). (arXiv 2021)
-* [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf). (AT4SSL 2021)
 
 <h2 id="gloss"> Two-stage Sign Language Translation </h2>
 
