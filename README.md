@@ -26,13 +26,12 @@ This is a sign language translation reading list maintained by [Xing Wang](http:
 
 <h2 id="gloss"> New-settings for Sign Language Translation </h2>
 
-* [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf). (CVPR 2023)
-* [Gloss-Free End-to-End Sign Language Translation](https://arxiv.org/pdf/2305.12876). (ACL 2023)
-* [MLSLT: Towards Multilingual Sign Language Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf). (CVPR 2022)
-* [Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456?casa_token=wDqujzOY8qoAAAAA:KFwcBI5nlgpabQPV0fLvQ34PovxsydAyge6xPn1KrTMe5G_lkktvkAL4ZQ9XRa-cFSbRTaFMYcXaiK9C). (ACM MM 2021)
-* [Including Signed Languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222). (ACL 2021)
-* [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475544?casa_token=ZkpZ40zMKaEAAAAA:I5_5IBX0k1ROeVkUdxktCtyRAPnp-8MJ31gJR4cLhXKe2QFomwjsTrTOjB8KMK1LTMU-R27VAlOqiWro). (ACM MM 2021)
-* [Skeleton-Aware Neural Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475577?casa_token=AswxspbNYzgAAAAA:iJJ8tDNZuu8r0VCiDfHSV70A5vOgDk-ngKgm2X0chMcGuSBDxRW9TpSrvFjpwVH-dDtbf2VxDcMAUu29). (ACM MM 2021)
+* [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf) by Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao. (CVPR 2023)
+* [MLSLT: Towards Multilingual Sign Language Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf) by Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (CVPR 2022)
+* [Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456?casa_token=wDqujzOY8qoAAAAA:KFwcBI5nlgpabQPV0fLvQ34PovxsydAyge6xPn1KrTMe5G_lkktvkAL4ZQ9XRa-cFSbRTaFMYcXaiK9C) by Tao Jin, Zhou Zhao. (ACM MM 2021)
+* [Including Signed Languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222) by Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg, Malihe Alikhani. (arXiv preprint 2021)
+* [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475544?casa_token=ZkpZ40zMKaEAAAAA:I5_5IBX0k1ROeVkUdxktCtyRAPnp-8MJ31gJR4cLhXKe2QFomwjsTrTOjB8KMK1LTMU-R27VAlOqiWro) by Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
+* [Skeleton-Aware Neural Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475577?casa_token=AswxspbNYzgAAAAA:iJJ8tDNZuu8r0VCiDfHSV70A5vOgDk-ngKgm2X0chMcGuSBDxRW9TpSrvFjpwVH-dDtbf2VxDcMAUu29) by Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu. (ACM MM 2021)
 
 
 <h2 id="gloss"> Low-resources Sign Language Translation </h2>
