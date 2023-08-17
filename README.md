@@ -11,18 +11,20 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 <h2 id="survey">Survey</h2>
 
+* [Sign Language Translation: A Survey of Approaches and Techniques.](https://www.mdpi.com/2079-9292/12/12/2678). Zeyu Liang, Huailing Li and Jianping Chai. (Electronics 2023)
 * [A survey on Sign Language machine translation.](https://arxiv.org/abs/2301.07069). Adrián Núñez-Marcos, Olatz Perez-de-Viñaspre, Gorka Labaka. (Expert Systems with Applications 2022)
 * [Machine translation from signed to spoken languages: state of the art and challenges.](https://arxiv.org/abs/2202.03086). Mathieu De Coster, Dimitar Shterionov, Mieke Van Herreweghe and Joni Dambre. (Universal Access in the Information Society 2023)
-* [Sign Language Translation: A Survey of Approaches and Techniques.](https://www.mdpi.com/2079-9292/12/12/2678). Zeyu Liang, Huailing Li and Jianping Chai. (Electronics 2023)
+
 
 
 <h2 id="gloss">Sign Language Gloss Translation</h2>
 
+* [Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation.](https://aclanthology.org/2023.eacl-main.34/)  Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu. (EACL 2023) {[code](https://github.com/Atrewin/PGen)}
+* [Using Neural Machine Translation Methods for Sign Language Translation.](https://aclanthology.org/2022.acl-srw.21)  Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022)
 * [Data Augmentation for Sign Language Gloss Translation.](https://aclanthology.org/2021.mtsummit-at4ssl.1.pdf)  Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (AT4SSL 2021)
 * [Frozen Pretrained Transformers for Neural Sign Language Translation.](https://aclanthology.org/2021.mtsummit-at4ssl.10.pdf)  Mathieu De Coster, Karel D’Oosterlinck, Marija Pizurica, Paloma Rabaey, Severine Verlinden, Mieke Van Herreweghe and Joni Dambre. (AT4SSL 2021) {[code](https://github.com/m-decoster/fpt4slt)}
 * [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task.](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf)  Xuan Zhang and Kevin Duh. (AT4SSL 2021)
-* [Using Neural Machine Translation Methods for Sign Language Translation.](https://aclanthology.org/2022.acl-srw.21)  Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022)
-* [Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation.](https://aclanthology.org/2023.eacl-main.34/)  Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu. (EACL 2023) {[code](https://github.com/Atrewin/PGen)}
+
 
 <h2 id="gloss"> New-settings for Sign Language Translation </h2>
 
@@ -36,9 +38,9 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 <h2 id="gloss"> Low-resources Sign Language Translation </h2>
 
+* [SLTUNET: A Simple Unified Model for Sign Language Translation.](https://arxiv.org/abs/2305.01778)  Biao Zhang, Mathias Müller, Rico Sennrich. (ICLR 2023)
 * [Using Neural Machine Translation Methods for Sign Language Translation.](http://aclweb.org/anthology/2022.acl-srw.30)  Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022)
 * [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.](https://proceedings.neurips.cc/paper/2022/hash/8a8c4e0c3f066865675460bb5aa8b418-Abstract.html)  NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022)
-* [SLTUNET: A Simple Unified Model for Sign Language Translation.](https://arxiv.org/abs/2305.01778)  Biao Zhang, Mathias Müller, Rico Sennrich. (arXiv preprint 2023)
 * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation.](http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.pdf)  Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin. (CVPR 2022)
 * [Mc-slt: Towards Low-Resource Signer-Adaptive Sign Language Translation.](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456)  Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (ACM MM 2022)
 * [Prior Knowledge and Memory Enriched Transformer for Sign Language Translation.](https://aclanthology.org/2022.findings-acl.297/). Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (Findings of ACL 2022)
