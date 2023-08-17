@@ -65,10 +65,9 @@ This is a sign language translation reading list maintained by [Xing Wang.](http
 
 * [RWTH-PHOENIX-Weather 2014 T](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/). Human Language Technology and Pattern Recognition Group at the RWTH Aachen University
 * [CSL-Daily Dataset](https://ustc-slr.github.io/datasets/2021_csl_daily/). Visual Sign Language Research Group at the University of Science and Technology of China
+* [How2Sign](https://how2sign.github.io/) Universitat Politecnica de Catalunya / Barcelona Supercomputing Center /Institut de Robotica i Informatica Industrial, CSIC-UPC / Carnegie Mellon University / Facebook AI / Gallaudet University
 * [BOBSL: BBC-Oxford British Sign Language Dataset](https://www.robots.ox.ac.uk/~vgg/data/bobsl/#data). Visual Geometry Group at the University of Oxford
 * [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl). Google 
-* [How2Sign](https://openaccess.thecvf.com/content/CVPR2021/papers/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.pdf) Universitat Politecnica de Catalunya / Barcelona Supercomputing Center /Institut de Robotica i Informatica Industrial, CSIC-UPC / Carnegie Mellon University / Facebook AI / Gallaudet University
-* 
 
 
 <h2 id="wmt">WMT shared task on sign language translation</h2>
