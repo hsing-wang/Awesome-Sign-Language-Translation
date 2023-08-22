@@ -65,7 +65,6 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 * [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](https://arxiv.org/pdf/2307.14768) B Zhou, Z Chen, A Clapés, J Wan, Y Liang, S Escalera, Z Lei, D Zhang (arXiv 2023)
 * [Gloss-Free End-to-End Sign Language Translation](https://arxiv.org/pdf/2305.12876) Lin, Kezhou and Wang, Xiaohan and Zhu, Linchao and Sun, Ke and Zhang, Bang and Yang, Yi (ACL 2023)
-* 
 * [Gloss Attention for Gloss-free Sign Language Translation.](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf)  Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao. (CVPR 2023)
 
 
