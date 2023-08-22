@@ -1,6 +1,9 @@
 # Awesome-Neural-Sign-Language-Translation
 
 
+This is a neural sign language translation reading list maintained by [Xing Wang.](http://xingwang4nlp.com/), [Jinhui Ye.](https://jhuiye.com/) 
+
+
 * [Survey.](#survey)
 * [Sign Language Gloss Translation.](#gloss)
 * [Two-stage Sign Language Translation.](#Two-stage)
@@ -8,6 +11,7 @@
 * [Gloss-free Sign Translation .](#gloss-free)
 * [Dataset.](#data)
 * [WMT shared task on sign language translation.](#wmt)
+
 
 
 <h2 id="survey">Survey</h2>
@@ -26,8 +30,6 @@
 * [Data Augmentation for Sign Language Gloss Translation.](https://aclanthology.org/2021.mtsummit-at4ssl.1.pdf)  Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (AT4SSL 2021)
 * [Frozen Pretrained Transformers for Neural Sign Language Translation.](https://aclanthology.org/2021.mtsummit-at4ssl.10.pdf)  Mathieu De Coster, Karel D’Oosterlinck, Marija Pizurica, Paloma Rabaey, Severine Verlinden, Mieke Van Herreweghe and Joni Dambre. (AT4SSL 2021) {[code](https://github.com/m-decoster/fpt4slt)}
 * [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task.](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf)  Xuan Zhang and Kevin Duh. (AT4SSL 2021)
-* [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task.](https://www.aclweb.org/anthology/2021.at4ssl-1.8.pdf)  Xuan Zhang, Kevin Duh. (AT4SSL 2021)
-
 
 
 
@@ -46,8 +48,7 @@
 
 * [SLTUNET: A Simple Unified Model for Sign Language Translation.](https://arxiv.org/abs/2305.01778)  Biao Zhang, Mathias Müller, Rico Sennrich. (ICLR 2023)
 * [MLSLT: Towards Multilingual Sign Language Translation.](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf)  Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (CVPR 2022)
-* [Sign language translation with hierarchical spatio-temporal graph neural network](https://openaccess.thecvf.com/content/WACV2022/papers/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.pdf) Kan, Jichao et al.. (CVPR 2022) 
-* [MLSLT: Towards Multilingual Sign Language Translation.](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf)  Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (CVPR 2022)
+* [Sign language translation with hierarchical spatio-temporal graph neural network.](https://openaccess.thecvf.com/content/WACV2022/papers/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.pdf) Kan, Jichao et al.. (CVPR 2022)
 * [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.](https://proceedings.neurips.cc/paper/2022/hash/8a8c4e0c3f066865675460bb5aa8b418-Abstract.html)  NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022)
 * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation.](http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.pdf)  Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin. (CVPR 2022)
 * [SimulSLT: End-to-End Simultaneous Sign Language Translation.](https://dl.acm.org/doi/pdf/10.1145/3474085.3475544?casa_token=ZkpZ40zMKaEAAAAA:I5_5IBX0k1ROeVkUdxktCtyRAPnp-8MJ31gJR4cLhXKe2QFomwjsTrTOjB8KMK1LTMU-R27VAlOqiWro)  Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
