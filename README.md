@@ -34,18 +34,20 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 <h2 id="Two-stage"> Two-stage Sign Language Translation </h2>
 
-* [TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)  Dongxu Li, Chenchen Xu, Xin Yu, Kaihao Zhang, Benjamin Swift, Hanna Suominen, Hongdong Li. (NeurIPS 2020)
-* [Better Sign Language Translation with STMC-Transformer](https://aclanthology.org/2022.loresmt-1.pdf)  Kayo Yin, Jesse Read. (COLING 2020)
-* [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf)  Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li. (CVPR 2021)
+* [Neural Sign Language Translation Based on Human Keypoint Estimation](https://www.mdpi.com/2076-3417/9/13/2683).  Sang-Ki Ko, Chang Jo Kim, Hyedong Jung and Choongsang Cho. (Applied Sciences, 2019)
+* [TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf).  Dongxu Li, Chenchen Xu, Xin Yu, Kaihao Zhang, Benjamin Swift, Hanna Suominen, Hongdong Li. (NeurIPS 2020)
+* [Better Sign Language Translation with STMC-Transformer](https://aclanthology.org/2022.loresmt-1.pdf).  Kayo Yin, Jesse Read. (COLING 2020)
+* [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf).  Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li. (CVPR 2021)
 * [Including Signed Languages in Natural Language Processing](https://arxiv.org/pdf/2105.05222)  Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg, Malihe Alikhani. (arXiv preprint 2021)
-* [Skeleton-Aware Neural Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475577?casa_token=AswxspbNYzgAAAAA:iJJ8tDNZuu8r0VCiDfHSV70A5vOgDk-ngKgm2X0chMcGuSBDxRW9TpSrvFjpwVH-dDtbf2VxDcMAUu29)  Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu. (ACM MM 2021)
-* [WearSign: Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables](https://dl.acm.org/doi/pdf/10.1145/3517257?casa_token=RFZGeppaecQAAAAA:qTKlWJXlUKMrVVxVX0O1MAqPGkLRu_OzT9z2R_XzUWmCs55jT9o8Q-eghh9-p52L8qU1z5IHGF6BCP8R) Qian Zhang, JiaZhen Jing, Dong Wang, Run Zhao. (ACM Interact. Mob. Wearable Ubiquitous Technol. 2022) 
+* [Skeleton-Aware Neural Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475577?casa_token=AswxspbNYzgAAAAA:iJJ8tDNZuu8r0VCiDfHSV70A5vOgDk-ngKgm2X0chMcGuSBDxRW9TpSrvFjpwVH-dDtbf2VxDcMAUu29).  Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu. (ACM MM 2021)
+* [WearSign: Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables](https://dl.acm.org/doi/pdf/10.1145/3517257?casa_token=RFZGeppaecQAAAAA:qTKlWJXlUKMrVVxVX0O1MAqPGkLRu_OzT9z2R_XzUWmCs55jT9o8Q-eghh9-p52L8qU1z5IHGF6BCP8R). Qian Zhang, JiaZhen Jing, Dong Wang, Run Zhao. (ACM Interact. Mob. Wearable Ubiquitous Technol. 2022) 
 
 
 <h2 id="end2end"> End-to-end Sign Translation </h2>
 
 * [Hierarchical LSTM for Sign Language Translation](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Dan Guo, Wengang Zhou, Houqiang Li, Meng Wang. (AAAI 2018)
 * [Neural Sign Language Translation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf). Camgoz, Necati Cihan and Hadfield, Simon and Koller, Oscar and Ney, Hermann and Bowden, Richard. (CVPR 2018) {[code](https://github.com/neccam/slt)}
+* [Connectionist Temporal Fusion for Sign Language Translation](https://dl.acm.org/doi/10.1145/3240508.3240671). Shuo Wang, Dan Guo, Wen-Gang Zhou, Zheng-Jun Zha, Meng Wang. ((ACM Multimedia 2018) 
 * [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf).  Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020) {[code](https://github.com/neccam/slt)}
 * [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://arxiv.org/abs/2112.04228).  Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
 * [Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456?casa_token=wDqujzOY8qoAAAAA:KFwcBI5nlgpabQPV0fLvQ34PovxsydAyge6xPn1KrTMe5G_lkktvkAL4ZQ9XRa-cFSbRTaFMYcXaiK9C). Tao Jin, Zhou Zhao. (ACM MM 2021)
