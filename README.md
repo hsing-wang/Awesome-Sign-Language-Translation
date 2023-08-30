@@ -44,7 +44,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 <h2 id="end2end"> End-to-end Sign Translation </h2>
 
-* [Hierarchical LSTM for Sign Language Translation](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Dan Guo , Wengang Zhou , Houqiang Li , Meng Wang. (AAAI 2018)
+* [Hierarchical LSTM for Sign Language Translation](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Dan Guo, Wengang Zhou, Houqiang Li, Meng Wang. (AAAI 2018)
 * [Neural Sign Language Translation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf). Camgoz, Necati Cihan and Hadfield, Simon and Koller, Oscar and Ney, Hermann and Bowden, Richard. (CVPR 2018) {[code](https://github.com/neccam/slt)}
 * [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf).  Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020) {[code](https://github.com/neccam/slt)}
 * [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://arxiv.org/abs/2112.04228).  Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
