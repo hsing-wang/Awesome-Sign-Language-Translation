@@ -44,6 +44,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 <h2 id="end2end"> End-to-end Sign Translation </h2>
 
+* [Neural Sign Language Translation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf). Camgoz, Necati Cihan and Hadfield, Simon and Koller, Oscar and Ney, Hermann and Bowden, Richard. (CVPR 2018)
 * [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf).  Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020) {[code](https://github.com/neccam/slt)}
 * [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://arxiv.org/abs/2112.04228).  Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
 * [Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456?casa_token=wDqujzOY8qoAAAAA:KFwcBI5nlgpabQPV0fLvQ34PovxsydAyge6xPn1KrTMe5G_lkktvkAL4ZQ9XRa-cFSbRTaFMYcXaiK9C). Tao Jin, Zhou Zhao. (ACM MM 2021)
