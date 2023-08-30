@@ -10,7 +10,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [End-to-end Sign Translation.](#end2end)
 * [Gloss-free Sign Translation .](#gloss-free)
 * [Dataset.](#data)
-* [WMT shared task on sign language translation.](#wmt)
+* [Shared Task and Workshop.](#tasj)
 
 
 
@@ -61,14 +61,14 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets](https://openreview.net/forum?id=zBBmV-i84Go). NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022 Track Datasets and Benchmarks) {[code](https://openhands.ai4bharat.org/en/latest/)}
 * [Graph-Based Multimodal Sequential Embedding for Sign Language Translation](https://ieeexplore.ieee.org/abstract/document/9556136). Shengeng Tang, Dan Guo, Richang Hong, Meng Wang. (IEEE Transactions on Multimedia 2022) 
 * [SLTUNET: A Simple Unified Model for Sign Language Translation](https://arxiv.org/abs/2305.01778). Biao Zhang, Mathias Müller, Rico Sennrich. (ICLR 2023) {[code](https://github.com/bzhangGo/sltunet)}
-* [Cross-modality Data Augmentation for End-to-End Sign Language Translation](https://arxiv.org/abs/2305.11096). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xion. (arxiv 2023) {[code](https://github.com/Atrewin/SignXmDA)}
+* [Cross-modality Data Augmentation for End-to-End Sign Language Translation](https://arxiv.org/abs/2305.11096). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xiong. (arxiv 2023) {[code](https://github.com/Atrewin/SignXmDA)}
 
 
 
 <h2 id="gloss-free"> Gloss-free Sign Translation </h2>
 
 * [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](https://arxiv.org/pdf/2307.14768) Benjia Zhou, Zhigang Chen, Albert Clapés, Jun Wan, Yanyan Liang, Sergio Escalera, Zhen Lei, Du Zhang. (ICCV 2023) {[code](https://github.com/zhoubenjia/GFSLT-VLP)}
-* [Gloss-Free End-to-End Sign Language Translation](https://arxiv.org/pdf/2305.12876) Lin, Kezhou and Wang, Xiaohan and Zhu, Linchao and Sun, Ke and Zhang, Bang and Yang, Yi (ACL 2023) {[code](https://github.com/HenryLittle/GloFE)}
+* [Gloss-Free End-to-End Sign Language Translation](https://arxiv.org/pdf/2305.12876) Lin, Kezhou and Wang, Xiaohan and Zhu, Linchao and Sun, Ke and Zhang, Bang and Yang, Yi. (ACL 2023) {[code](https://github.com/HenryLittle/GloFE)}
 * [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf)  Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao. (CVPR 2023) {[code](https://github.com/YinAoXiong/GASLT)}
 
 
@@ -79,12 +79,17 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [CSL-Daily Dataset](https://ustc-slr.github.io/datasets/2021_csl_daily/). Visual Sign Language Research Group at the University of Science and Technology of China
 * [How2Sign](https://how2sign.github.io/) Universitat Politecnica de Catalunya / Barcelona Supercomputing Center /Institut de Robotica i Informatica Industrial, CSIC-UPC / Carnegie Mellon University / Facebook AI / Gallaudet University
 * [BOBSL: BBC-Oxford British Sign Language Dataset](https://www.robots.ox.ac.uk/~vgg/data/bobsl/#data). Visual Geometry Group at the University of Oxford
-* [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl). Google 
+* [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl). Google
 
 
-<h2 id="wmt">WMT shared task on sign language translation</h2>
+<h2 id="wmt">Shared Task and Workshop</h2>
 
-* [Findings of the First WMT Shared Task on Sign Language Translation (WMT-SLT22)](https://www.statmt.org/wmt22/pdf/2022.wmt-1.71.pdf). Mathias Müller, Sarah Ebling, Eleftherios Avramidis, Alessia Battisti, Michèle Berger, Richard Bowden, Annelies Braffort, Necati Cihan Camgöz, Cristina España-Bonet, Roman Grundkiewicz, Zifan Jiang, Oscar Koller, Amit Moryossef, Regula Perrollaz, Sabine Reinhard, Annette Rios, Dimitar Shterionov, Sandra Sidler-Miserez, Katja Tissi and Davy Van Landuyt. (WMT 2023)
+* [First WMT Shared Task on Sign Language Translation (WMT-SLT22)](https://sites.google.com/view/wmt-slt-v2022). 
+* [Second WMT Shared Task on Sign Language Translation (WMT-SLT23)](https://www.wmt-slt.com/). 
+* [Sign Language Recognition, Translation & Production (SLRTP) Workshop 2020](https://slrtp.com/).
+* [Sign Language Recognition, Translation & Production (SLRTP) Workshop 2022)](https://slrtp-2022.github.io/). 
+
+
 
 
 
