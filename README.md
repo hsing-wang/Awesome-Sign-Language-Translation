@@ -51,6 +51,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf).  Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden. (CVPR 2020) {[code](https://github.com/neccam/slt)}
 * [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://arxiv.org/abs/2112.04228).  Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He. (ACM MM 2021)
 * [Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456?casa_token=wDqujzOY8qoAAAAA:KFwcBI5nlgpabQPV0fLvQ34PovxsydAyge6xPn1KrTMe5G_lkktvkAL4ZQ9XRa-cFSbRTaFMYcXaiK9C). Tao Jin, Zhou Zhao. (ACM MM 2021)
+* [Enhancing Neural Sign Language Translation by highlighting the facial expression information](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698). Jiangbin Zheng, Yidong Chen, Chong Wu, Xiaodong Shi, Suhail Muhammad Kamal. (Neurocomputing 2021)
 * [Prior Knowledge and Memory Enriched Transformer for Sign Language Translation](https://aclanthology.org/2022.findings-acl.297/). Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (Findings of ACL 2022)
 * [Two-Stream Network for Sign Language Recognition and Translation](https://proceedings.neurips.cc/paper_files/paper/2022/file/6cd3ac24cdb789beeaa9f7145670fcae-Paper-Conference.pdf). Yutong Chen, Ronglai Zuo, Fangyun Wei, Yu Wu, Shujie Liu, Brian Mak. (NeurIPS 2022) {[code](https://github.com/FangyunWei/SLRT/tree/main/TwoStreamNetwork)}
 * [Mc-slt: Towards Low-Resource Signer-Adaptive Sign Language Translation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475456) Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng. (ACM MM 2022)
@@ -61,7 +62,6 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Graph-Based Multimodal Sequential Embedding for Sign Language Translation](https://ieeexplore.ieee.org/abstract/document/9556136). Shengeng Tang, Dan Guo, Richang Hong, Meng Wang. (IEEE Transactions on Multimedia 2022) 
 * [SLTUNET: A Simple Unified Model for Sign Language Translation](https://arxiv.org/abs/2305.01778). Biao Zhang, Mathias Müller, Rico Sennrich. (ICLR 2023) {[code](https://github.com/bzhangGo/sltunet)}
 * [Cross-modality Data Augmentation for End-to-End Sign Language Translation](https://arxiv.org/abs/2305.11096). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xion. (arxiv 2023) {[code](https://github.com/Atrewin/SignXmDA)}
-
 
 
 
