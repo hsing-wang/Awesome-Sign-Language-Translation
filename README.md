@@ -15,6 +15,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 
 <h2 id="survey">Survey</h2>
+
 * [Sign Language Processing.](https://research.sign.mt/). Moryossef, Amit and Goldberg, Yoav. (2021)
 * [A survey on Sign Language machine translation.](https://arxiv.org/abs/2301.07069). Adrián Núñez-Marcos, Olatz Perez-de-Viñaspre, Gorka Labaka. (Expert Systems with Applications 2022)
 * [Machine translation from signed to spoken languages: state of the art and challenges.](https://arxiv.org/abs/2202.03086). Mathieu De Coster, Dimitar Shterionov, Mieke Van Herreweghe and Joni Dambre. (Universal Access in the Information Society 2023)
@@ -54,6 +55,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network.](https://openaccess.thecvf.com/content/WACV2022/papers/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.pdf) Jichao Kan, Kun Hu, Markus Hagenbuchner, Ah Chung Tsoi, Mohammed Bennamounm, Zhiyong Wang. (CVPR 2022)
 * [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.](https://proceedings.neurips.cc/paper/2022/hash/8a8c4e0c3f066865675460bb5aa8b418-Abstract.html)  NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022)
 * [SLTUNET: A Simple Unified Model for Sign Language Translation.](https://arxiv.org/abs/2305.01778)  Biao Zhang, Mathias Müller, Rico Sennrich. (ICLR 2023) {[code](https://github.com/bzhangGo/sltunet)}
+* [Cross-modality Data Augmentation for End-to-End Sign Language Translation.](https://arxiv.org/abs/2305.11096)  Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xion. (arxiv 2023) {[code](https://github.com/Atrewin/SignXmDA)}
 
 
 
