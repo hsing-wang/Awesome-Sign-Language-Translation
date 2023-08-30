@@ -31,8 +31,6 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation.](https://aclanthology.org/2023.eacl-main.34/)  Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu. (EACL 2023) {[code](https://github.com/Atrewin/PGen)}
 
 
-
-
 <h2 id="Two-stage"> Two-stage Sign Language Translation </h2>
 
 * [TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation.](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)  Dongxu Li, Chenchen Xu, Xin Yu, Kaihao Zhang, Benjamin Swift, Hanna Suominen, Hongdong Li. (NeurIPS 2020)
