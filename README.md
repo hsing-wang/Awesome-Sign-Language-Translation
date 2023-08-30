@@ -25,11 +25,11 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 
 <h2 id="gloss">Sign Language Gloss Translation</h2>
 
-* [Data Augmentation for Sign Language Gloss Translation](https://aclanthology.org/2021.mtsummit-at4ssl.1.pdf)  Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (AT4SSL 2021)
-* [Frozen Pretrained Transformers for Neural Sign Language Translation](https://aclanthology.org/2021.mtsummit-at4ssl.10.pdf)  Mathieu De Coster, Karel D’Oosterlinck, Marija Pizurica, Paloma Rabaey, Severine Verlinden, Mieke Van Herreweghe and Joni Dambre. (AT4SSL 2021) {[code](https://github.com/m-decoster/fpt4slt)}
-* [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf)  Xuan Zhang and Kevin Duh. (AT4SSL 2021)
-* [Using Neural Machine Translation Methods for Sign Language Translation](https://aclanthology.org/2022.acl-srw.21)  Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022) {[code](https://github.com/DFKI-SignLanguage/gloss-to-text-sign-language-translation)}
-* [Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation](https://aclanthology.org/2023.eacl-main.34/)  Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu. (EACL 2023) {[code](https://github.com/Atrewin/PGen)}
+* [Data Augmentation for Sign Language Gloss Translation](https://aclanthology.org/2021.mtsummit-at4ssl.1.pdf). Amit Moryossef, Kayo Yin, Graham Neubig, Yoav Goldberg. (AT4SSL 2021)
+* [Frozen Pretrained Transformers for Neural Sign Language Translation](https://aclanthology.org/2021.mtsummit-at4ssl.10.pdf). Mathieu De Coster, Karel D’Oosterlinck, Marija Pizurica, Paloma Rabaey, Severine Verlinden, Mieke Van Herreweghe and Joni Dambre. (AT4SSL 2021) {[code](https://github.com/m-decoster/fpt4slt)}
+* [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf). Xuan Zhang and Kevin Duh. (AT4SSL 2021)
+* [Using Neural Machine Translation Methods for Sign Language Translation](https://aclanthology.org/2022.acl-srw.21). Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022) {[code](https://github.com/DFKI-SignLanguage/gloss-to-text-sign-language-translation)}
+* [Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation](https://aclanthology.org/2023.eacl-main.34/). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu. (EACL 2023) {[code](https://github.com/Atrewin/PGen)}
 
 
 <h2 id="Two-stage"> Two-stage Sign Language Translation </h2>
