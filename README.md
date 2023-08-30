@@ -89,7 +89,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [First WMT Shared Task on Sign Language Translation (WMT-SLT22)](https://sites.google.com/view/wmt-slt-v2022). 
 * [Second WMT Shared Task on Sign Language Translation (WMT-SLT23)](https://www.wmt-slt.com/). 
 * [Sign Language Recognition, Translation & Production (SLRTP) Workshop 2020](https://slrtp.com/).
-* [Sign Language Recognition, Translation & Production (SLRTP) Workshop 2022)](https://slrtp-2022.github.io/). 
+* [Sign Language Recognition, Translation & Production (SLRTP) Workshop 2022](https://slrtp-2022.github.io/). 
 
 
 
