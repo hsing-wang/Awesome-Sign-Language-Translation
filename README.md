@@ -10,7 +10,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [End-to-end Sign Translation.](#end2end)
 * [Gloss-free Sign Translation .](#gloss-free)
 * [Dataset.](#data)
-* [Shared Task and Workshop.](#tasj)
+* [Shared Task and Workshop.](#task)
 
 
 
@@ -84,7 +84,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl). Google
 
 
-<h2 id="wmt">Shared Task and Workshop</h2>
+<h2 id="task">Shared Task and Workshop</h2>
 
 * [First WMT Shared Task on Sign Language Translation (WMT-SLT22)](https://sites.google.com/view/wmt-slt-v2022). 
 * [Second WMT Shared Task on Sign Language Translation (WMT-SLT23)](https://www.wmt-slt.com/). 
