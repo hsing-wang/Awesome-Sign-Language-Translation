@@ -62,7 +62,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets](https://openreview.net/forum?id=zBBmV-i84Go). NC Gokul, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh M Khapra. (NeurIPS 2022 Track Datasets and Benchmarks) {[code](https://openhands.ai4bharat.org/en/latest/)}
 * [Graph-Based Multimodal Sequential Embedding for Sign Language Translation](https://ieeexplore.ieee.org/abstract/document/9556136). Shengeng Tang, Dan Guo, Richang Hong, Meng Wang. (IEEE Transactions on Multimedia 2022) 
 * [SLTUNET: A Simple Unified Model for Sign Language Translation](https://arxiv.org/abs/2305.01778). Biao Zhang, Mathias Müller, Rico Sennrich. (ICLR 2023) {[code](https://github.com/bzhangGo/sltunet)}
-* [Cross-modality Data Augmentation for End-to-End Sign Language Translation](https://arxiv.org/abs/2305.11096). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xiong. (arxiv 2023) {[code](https://github.com/Atrewin/SignXmDA)}
+* [Cross-modality Data Augmentation for End-to-End Sign Language Translation](https://arxiv.org/abs/2305.11096). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xiong. (Findings of EMNLP 2023) {[code](https://github.com/Atrewin/SignXmDA)}
 * [Sign Language Translation with Iterative Prototype](https://arxiv.org/abs/2308.12191). Huijie Yao, Wengang Zhou, Hao Feng, Hezhen Hu, Hao Zhou, Houqiang Li. (ICCV 2023) {[code](https://github.com/Atrewin/SignXmDA)}
 
 
