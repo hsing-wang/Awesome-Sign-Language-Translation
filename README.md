@@ -83,6 +83,8 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [How2Sign](https://how2sign.github.io/) Universitat Politecnica de Catalunya / Barcelona Supercomputing Center /Institut de Robotica i Informatica Industrial, CSIC-UPC / Carnegie Mellon University / Facebook AI / Gallaudet University
 * [BOBSL: BBC-Oxford British Sign Language Dataset](https://www.robots.ox.ac.uk/~vgg/data/bobsl/#data). Visual Geometry Group at the University of Oxford
 * [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl). Google
+* [SignBank+ - Cleaning and Extending the SignBank Dataset](https://github.com/sign-language-processing/signbank-plus). Bar-Ilan University / University of Zürich
+
 
 
 <h2 id="task">Shared Task and Workshop</h2>
