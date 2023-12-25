@@ -7,8 +7,8 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Survey.](#survey)
 * [Sign Language Gloss Translation.](#gloss)
 * [Two-stage Sign Language Translation.](#Two-stage)
-* [End-to-end Sign Translation.](#end2end)
-* [Gloss-free Sign Translation .](#gloss-free)
+* [Gloss-based Sign Translation.](#end2end)
+* [Gloss-free Sign Translation.](#gloss-free)
 * [Dataset.](#data)
 * [Shared Task and Workshop.](#task)
 
@@ -43,7 +43,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [WearSign: Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables](https://dl.acm.org/doi/pdf/10.1145/3517257?casa_token=RFZGeppaecQAAAAA:qTKlWJXlUKMrVVxVX0O1MAqPGkLRu_OzT9z2R_XzUWmCs55jT9o8Q-eghh9-p52L8qU1z5IHGF6BCP8R). Qian Zhang, JiaZhen Jing, Dong Wang, Run Zhao. (ACM Interact. Mob. Wearable Ubiquitous Technol. 2022) 
 
 
-<h2 id="end2end"> End-to-end Sign Translation </h2>
+<h2 id="end2end"> Gloss-based Sign Translation </h2>
 
 * [Hierarchical LSTM for Sign Language Translation](https://ojs.aaai.org/index.php/AAAI/article/view/12235). Dan Guo, Wengang Zhou, Houqiang Li, Meng Wang. (AAAI 2018)
 * [Neural Sign Language Translation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf). Camgoz, Necati Cihan and Hadfield, Simon and Koller, Oscar and Ney, Hermann and Bowden, Richard. (CVPR 2018) {[code](https://github.com/neccam/slt)}
