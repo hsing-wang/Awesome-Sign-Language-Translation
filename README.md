@@ -30,6 +30,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Approaching Sign Language Gloss Translation as a Low-Resource Machine Translation Task](https://aclanthology.org/2021.mtsummit-at4ssl.7.pdf). Xuan Zhang and Kevin Duh. (AT4SSL 2021)
 * [Using Neural Machine Translation Methods for Sign Language Translation](https://aclanthology.org/2022.acl-srw.21). Galina Angelova, Eleftherios Avramidis, Sebastian Möller. (ACL SRW 2022) {[code](https://github.com/DFKI-SignLanguage/gloss-to-text-sign-language-translation)}
 * [Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation](https://aclanthology.org/2023.eacl-main.34/). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu. (EACL 2023) {[code](https://github.com/Atrewin/PGen)}
+* [Leveraging Large Language Models With Vocabulary Sharing For Sign Language Translation]([https://ieeexplore.ieee.org/document/23456789](https://ieeexplore.ieee.org/iel7/10192576/10192577/10193533.pdf?casa_token=nIID4Q1zJpEAAAAA:xEtwz5euiB1mchfBjPXrPx3Y0jj_PyrR2qycS6FlPDo4vmB39sU32yMLDKehUFl3iCDfw3RJGACZHlo)). Lee, Huije; Kim, Jung-Ho; Hwang, Eui Jun; Kim, (ICASSPW 2023).
 
 
 <h2 id="Two-stage"> Two-stage Sign Language Translation </h2>
@@ -65,15 +66,15 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Cross-modality Data Augmentation for End-to-End Sign Language Translation](https://arxiv.org/abs/2305.11096). Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xiong. (Findings of EMNLP 2023) {[code](https://github.com/Atrewin/SignXmDA)}
 * [Sign Language Translation with Iterative Prototype](https://arxiv.org/abs/2308.12191). Huijie Yao, Wengang Zhou, Hao Feng, Hezhen Hu, Hao Zhou, Houqiang Li. (ICCV 2023) {[code](https://github.com/Atrewin/SignXmDA)}
 * [Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse](https://arxiv.org/abs/2308.09622). Ozge Mercanoglu Sincan, Necati Cihan Camgoz, Richard Bowden. (ICCV workshop 2023) 
-
-
+* [A Token-Level Contrastive Framework for Sign Language Translation](https://ieeexplore.ieee.org/iel7/10094559/10094560/10095466.pdf?casa_token=EuiJncrLJs8AAAAA:3fmnWW8fa-ddtllrAxzA9WT6JxwxusN5OpfzkBIwK8UISMV5LBj60whxwXN-vv4EYsxZg-UqLIEOb6s). Fu, Biao; Ye, Peigen; Zhang, Liang; Yu, Pei; Hu, Cong; Shi, Xiaodong; Chen, Yidong. (ICASSP 2023).
+* [Contrastive learning for sign language recognition and translation]([https://www.ijcai.org/proceedings/2023/123](https://www.ijcai.org/proceedings/2023/0085.pdf)). Gan, Shiwei; Yin, Yafeng; Jiang, Zhiwei; Xia, Kang; Xie, Lei; Lu, Sanglu. (IJCAI 2023).
 
 <h2 id="gloss-free"> Gloss-free Sign Translation </h2>
 
 * [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](https://arxiv.org/pdf/2307.14768) Benjia Zhou, Zhigang Chen, Albert Clapés, Jun Wan, Yanyan Liang, Sergio Escalera, Zhen Lei, Du Zhang. (ICCV 2023) {[code](https://github.com/zhoubenjia/GFSLT-VLP)}
 * [Gloss-Free End-to-End Sign Language Translation](https://arxiv.org/pdf/2305.12876) Lin, Kezhou and Wang, Xiaohan and Zhu, Linchao and Sun, Ke and Zhang, Bang and Yang, Yi. (ACL 2023) {[code](https://github.com/HenryLittle/GloFE)}
 * [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf)  Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao. (CVPR 2023) {[code](https://github.com/YinAoXiong/GASLT)}
-
+* [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](http://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.pdf). Zhou, Benjia; Chen, Zhigang; Clapés, Albert; Wan, Jun; Liang, Yanyan; Escalera, Sergio; Lei, Zhen; Zhang, Du. (ICCV 2023) {[code](https://github.com/zhoubenjia/GFSLT-VLP)}.
 
 
 <h2 id="data">Dataset</h2>
