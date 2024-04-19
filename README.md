@@ -75,6 +75,7 @@ This is a neural sign language translation reading list maintained by [Xing Wang
 * [Gloss-Free End-to-End Sign Language Translation](https://arxiv.org/pdf/2305.12876) Lin, Kezhou and Wang, Xiaohan and Zhu, Linchao and Sun, Ke and Zhang, Bang and Yang, Yi. (ACL 2023) {[code](https://github.com/HenryLittle/GloFE)}
 * [Gloss Attention for Gloss-free Sign Language Translation](http://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf)  Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao. (CVPR 2023) {[code](https://github.com/YinAoXiong/GASLT)}
 * [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](http://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.pdf). Zhou, Benjia; Chen, Zhigang; Clapés, Albert; Wan, Jun; Liang, Yanyan; Escalera, Sergio; Lei, Zhen; Zhang, Du. (ICCV 2023) {[code](https://github.com/zhoubenjia/GFSLT-VLP)}.
+* [Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation](https://openreview.net/pdf?id=LqaEEs3UxU) Ryan Wong, Necati Cihan Camgoz, Richard Bowden. (ICLR 2024)
 
 
 <h2 id="data">Dataset</h2>
